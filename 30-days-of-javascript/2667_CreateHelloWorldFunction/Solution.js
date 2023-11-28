@@ -1,0 +1,1 @@
+var createHelloWorld = () => () => 'Hello World';
